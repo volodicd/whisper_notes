@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution/Packaging
+dist/
+build/
+*.egg-info/
+
+# Mac OS
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.*
+
